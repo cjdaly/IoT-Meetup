@@ -51,9 +51,9 @@ For more details about this system see [Rubble wiki](https://github.com/cjdaly/f
 
 #### weather sensors
 
-stormy weather lately....
-
 ![december storms](https://github.com/cjdaly/fold/wiki/images/weatherThing-baro-dec2015.png)
+
+stormy weather lately (Dec. 2015)....
 
 ------
 
