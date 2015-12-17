@@ -9,6 +9,8 @@
   - Assemble them into working systems (remember building PCs from parts?)
   - Write custom software for the systems (use/adapt lots of existing software too)
 
+------
+
 **Problem:** Systems cluttering up desk and table space.
 
 ![system on protoboard](https://github.com/cjdaly/napkin/wiki/images/bone3-cerb3.JPG)
@@ -19,13 +21,19 @@
 
 **Problem:** Ugly systems on the wall.
 
+------
+
 **Solution(?):** Design systems as wall hanging artworks(?!?!)
 
 ![Rubble](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Rubble-7.jpg)
 
+------
+
 #### behind the canvas
 
 ![Rubble](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Rubble-8.jpg)
+
+------
 
 #### (shameless plug time)
 
