@@ -23,6 +23,8 @@
 
 **Problem:** Ugly systems on the wall.
 
+For technical details about this system see [wiki](https://github.com/cjdaly/napkin/wiki/Server-with-serial-client-bone3-cerb3).
+
 ------
 
 ![Rubble](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Rubble-7.jpg)
