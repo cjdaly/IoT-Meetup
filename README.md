@@ -17,9 +17,9 @@
 
 ![system on protoboard](https://github.com/cjdaly/napkin/wiki/images/bone3-cerb3.JPG)
 
-**Solution:** Wall hanging systems!
-
 For technical details about this system see [wiki](https://github.com/cjdaly/napkin/wiki/Server-with-serial-client-bone3-cerb3).
+
+**Solution:** Wall hanging systems!
 
 ![protoboard system on wall](https://github.com/cjdaly/napkin/wiki/images/bone3-cerb3-framed.JPG)
 
