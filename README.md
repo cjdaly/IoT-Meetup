@@ -29,6 +29,8 @@
 
 ![Rubble](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Rubble-7.jpg)
 
+For more details about this system see [Rubble wiki](https://github.com/cjdaly/fold/wiki/fold-Thing-Rubble).
+
 ------
 
 #### behind the canvas
@@ -45,9 +47,11 @@
 
 #### another system: Cali
 
-![Cali](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Cali-5.jpg)
+For more details about this system see [Cali wiki](https://github.com/cjdaly/fold/wiki/fold-Thing-Cali).
 
-![Cali](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Cali-6.jpg)
+![Cali upstairs](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Cali-6.jpg)
+
+![Cali closeup](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Cali-5.jpg)
 
 #### (shameless plug time)
 
