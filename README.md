@@ -37,6 +37,12 @@
 
 ------
 
+#### weather sensors
+
+![december storms](https://github.com/cjdaly/fold/wiki/images/weatherThing-baro-dec2015.png)
+
+------
+
 #### another system: Cali
 
 ![Cali](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Cali-5.jpg)
