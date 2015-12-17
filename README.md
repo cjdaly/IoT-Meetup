@@ -7,7 +7,7 @@
 - Have been an IoT hobbyist / enthusiast for several years
 - Day job as software engineer, but not in IoT
 - Some of my favorite things about IoT:
-  - Find interesting/cool parts (Sparkfun, Adafruit, SeeedStudio, Kickstarter(tech), etc.)
+  - Find interesting/cool parts (Sparkfun, Adafruit, SeeedStudio, Kickstarter, Frys, etc.)
   - Assemble them into working systems (remember building PCs from parts?)
   - Write custom software for the systems (use/adapt lots of existing software too)
 
