@@ -17,7 +17,7 @@
 
 ![system on protoboard](https://github.com/cjdaly/napkin/wiki/images/bone3-cerb3.JPG)
 
-For technical details about this system see [wiki](https://github.com/cjdaly/napkin/wiki/Server-with-serial-client-bone3-cerb3).
+For technical details about this system see [napkin project wiki](https://github.com/cjdaly/napkin/wiki/Server-with-serial-client-bone3-cerb3).
 
 **Solution:** Wall hanging systems!
 
@@ -31,7 +31,15 @@ For technical details about this system see [wiki](https://github.com/cjdaly/nap
 
 **Solution(?):** Design systems as wall hanging artworks(?!?!)
 
-For technical details about this system see [Rubble wiki](https://github.com/cjdaly/fold/wiki/fold-Thing-Rubble).
+##### Rubble tech specs
+
+* [ODROID-C1](http://ameridroid.com/products/odroid-c1) mainboard
+  * ARM7, 4 cores, 1GB RAM ; running Ubuntu 14.04
+* [ODROID-Show2](http://ameridroid.com/products/odroid-show-2) LCD display
+  * [WeatherBoard](http://ameridroid.com/products/weather-board) attached
+* [D-Link DWL-P200](http://us.dlink.com/products/business-solutions/power-over-ethernet-adapter-kit/) single strand power over Ethernet
+
+For more details about this system see [Rubble wiki](https://github.com/cjdaly/fold/wiki/fold-Thing-Rubble).
 
 ------
 
@@ -49,9 +57,17 @@ For technical details about this system see [Rubble wiki](https://github.com/cjd
 
 #### another system: Cali
 
-For technical details about this system see [Cali wiki](https://github.com/cjdaly/fold/wiki/fold-Thing-Cali).
-
 ![Cali upstairs](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Cali-6.jpg)
+
+##### Cali tech specs
+
+* [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) mainboard
+  * ARM7, 4 cores, 1GB RAM ; running standard [Raspbian download](https://www.raspberrypi.org/downloads)
+* [ODROID-Show2](http://ameridroid.com/products/odroid-show-2) LCD display
+  * [WeatherBoard](http://ameridroid.com/products/weather-board) attached
+* [Adafruit passive POE cables](https://www.adafruit.com/products/435) single strand power over Ethernet
+
+For more details about this system see [Cali wiki](https://github.com/cjdaly/fold/wiki/fold-Thing-Cali).
 
 ![Cali closeup](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Cali-5.jpg)
 
