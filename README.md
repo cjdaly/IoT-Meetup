@@ -31,9 +31,15 @@
 
 #### behind the canvas
 
-![Rubble](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Rubble-8.jpg)
+![back of Rubble](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Rubble-8.jpg)
 
 ------
+
+#### another system: Cali
+
+![Cali](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Cali-5.jpg)
+
+![Cali](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Cali-6.jpg)
 
 #### (shameless plug time)
 
