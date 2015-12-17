@@ -27,4 +27,4 @@
 
 #### (shameless plug time)
 
-:star: :star: :star: :snowman: :snowflake: For a limited time, [Cali](https://www.etsy.com/listing/258768820/cali-wall-hanging-linux-computer),  [Rubble](https://www.etsy.com/listing/258665027/rubble-wall-hanging-linux-computer) and [Ships at Sea](https://www.etsy.com/listing/198036649/ships-at-sea-framed-oil-and-computers-on) wall hanging computer artworks are available on [Etsy](https://www.etsy.com/shop/IoTArtworks)!  :snowflake: :snowman: :star: :star: :star:
+:star: :snowman: :snowflake: For a limited time, [Cali](https://www.etsy.com/listing/258768820/cali-wall-hanging-linux-computer),  [Rubble](https://www.etsy.com/listing/258665027/rubble-wall-hanging-linux-computer) and [Ships at Sea](https://www.etsy.com/listing/198036649/ships-at-sea-framed-oil-and-computers-on) wall hanging computer artworks are available on [Etsy](https://www.etsy.com/shop/IoTArtworks)!  :snowflake: :snowman: :star:
