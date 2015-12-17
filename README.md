@@ -19,11 +19,11 @@
 
 **Solution:** Wall hanging systems!
 
+For technical details about this system see [wiki](https://github.com/cjdaly/napkin/wiki/Server-with-serial-client-bone3-cerb3).
+
 ![protoboard system on wall](https://github.com/cjdaly/napkin/wiki/images/bone3-cerb3-framed.JPG)
 
 **Problem:** Ugly systems on the wall.
-
-For technical details about this system see [wiki](https://github.com/cjdaly/napkin/wiki/Server-with-serial-client-bone3-cerb3).
 
 ------
 
