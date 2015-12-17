@@ -15,9 +15,9 @@
 
 **Solution:** Wall hanging Things!
 
-**Problem:** Ugly Things on the wall.
-
 ![protoboard system on wall](https://github.com/cjdaly/napkin/wiki/images/bone3-cerb3-framed.JPG)
+
+**Problem:** Ugly Things on the wall.
 
 **Solution(?):** Design Things as wall hanging artworks(!)
 
