@@ -23,7 +23,9 @@
 
 ![Rubble](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Rubble-7.jpg)
 
+#### behind the canvas
 
+![Rubble](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Rubble-8.jpg)
 
 #### (shameless plug time)
 
