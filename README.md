@@ -1,5 +1,3 @@
-:star: :snowman: :snowflake: For a limited time, [Cali](https://www.etsy.com/listing/258768820/cali-wall-hanging-linux-computer),  [Rubble](https://www.etsy.com/listing/258665027/rubble-wall-hanging-linux-computer) and [Ships at Sea](https://www.etsy.com/listing/198036649/ships-at-sea-framed-oil-and-computers-on) wall hanging computer artworks are available on [Etsy](https://www.etsy.com/shop/IoTArtworks)!  :snowflake: :snowman: :star:
-
 ### PDX IoT Meetup notes (17-Dec-2015)
 
 #### Chris Daly
@@ -71,6 +69,3 @@ For more details about this system see [Cali wiki](https://github.com/cjdaly/fol
 
 ![Cali closeup](https://github.com/cjdaly/fold/wiki/images/fold-Thing-Cali-5.jpg)
 
-#### (shameless plug time)
-
-:star: :snowman: :snowflake: For a limited time, [Cali](https://www.etsy.com/listing/258768820/cali-wall-hanging-linux-computer),  [Rubble](https://www.etsy.com/listing/258665027/rubble-wall-hanging-linux-computer) and [Ships at Sea](https://www.etsy.com/listing/198036649/ships-at-sea-framed-oil-and-computers-on) wall hanging computer artworks are available on [Etsy](https://www.etsy.com/shop/IoTArtworks)!  :snowflake: :snowman: :star:
